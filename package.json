@@ -3,7 +3,7 @@
     "name": "soft-sight",
     "displayName": "soft sight",
     "description": "A color theme that feels soft in the eyes.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "sajibsrs",
     "author": {
         "name": "Sajidur Rahman",
@@ -23,7 +23,7 @@
             {
                 "label": "soft sight",
                 "uiTheme": "vs-dark",
-                "path": "./themes/soft-sight-color-theme.json"
+                "path": "./themes/soft-sight.json"
             }
         ]
     }
