@@ -1,8 +1,6 @@
-# README
-![icon](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/icon.png)
+# README [![Marketplace](https://vsmarketplacebadge.apphb.com/version/sajibsrs.soft-sight.svg)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) [![Installs](https://vsmarketplacebadge.apphb.com/installs/sajibsrs.soft-sight.svg)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/sajibsrs.soft-sight.svg)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight)
 
-## Soft sight color theme
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/sajibsrs.soft-sight.svg)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) [![Installs](https://vsmarketplacebadge.apphb.com/installs/sajibsrs.soft-sight.svg)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/sajibsrs.soft-sight.svg)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight)
+## Soft sight color theme 
 
 A color theme for __vscode__ that feels soft and pleasant to eyes.
 
@@ -13,7 +11,7 @@ A color theme for __vscode__ that feels soft and pleasant to eyes.
 This color theme is freely available in the [visual studio code marketplace.](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight)
 
 ## What's new
-Click here to view the [changelog](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/CHANGELOG.md)
+Click here to view the [changelog](https://github.com/sajibsrs/soft-sight/blob/master/CHANGELOG.md)
 
 ## Notes
 * Still in `beta` version. So there might be some issues.
