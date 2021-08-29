@@ -1,5 +1,5 @@
 # README
-![soft sight, vscode theme](https://github.com/sajibsrs/soft-sight/blob/master/icon.png)
+![icon](https://user-images.githubusercontent.com/2642811/131260710-08744374-4f44-444b-bfe8-4ce2f2559d7e.png)
 
 ## Soft sight color theme
 A color theme for __vscode__ that feels soft and pleasant to eyes.
