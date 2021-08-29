@@ -1,7 +1,7 @@
-.vscode/**
-.vscode-test/**
-**/*.ts
-**/tsconfig.json
-!file.ts
-.gitignore
 vsc-extension-quickstart.md
+Fixing colors.txt
+screenshots/**
+tsconfig.json
+gulpfile.js
+.vscode/**
+.gitignore
