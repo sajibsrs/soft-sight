@@ -23,4 +23,4 @@ A color theme for __vscode__ that feels soft and pleasant to eyes.
 * Still in `beta` version. So there might be some issues.
 * Please feel to share your opinion as issues.
 * You can send modifications and improvements as __PR__.
-* Licensed under [MIT]([https://link](https://opensource.org/licenses/MIT)).
+* Licensed under [MIT](https://opensource.org/licenses/MIT).
