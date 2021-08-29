@@ -1,0 +1,7 @@
+.vscode/**
+.vscode-test/**
+**/*.ts
+**/tsconfig.json
+!file.ts
+.gitignore
+vsc-extension-quickstart.md

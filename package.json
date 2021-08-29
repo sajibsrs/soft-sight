@@ -1,0 +1,30 @@
+{
+    "icon": "icon.png",
+    "name": "soft-sight",
+    "displayName": "soft sight",
+    "description": "A color theme that feels soft in the eyes.",
+    "version": "0.1.0",
+    "publisher": "sajibsrs",
+    "author": {
+        "name": "Sajidur Rahman",
+        "email": "sajibsrs@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/sajibsrs/soft-sight"
+    },
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "soft sight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/soft-sight-color-theme.json"
+            }
+        ]
+    }
+}
