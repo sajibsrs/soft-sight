@@ -1,6 +1,6 @@
 vsc-extension-quickstart.md
 Fixing colors.txt
-screenshots/**
+preview/**
 tsconfig.json
 gulpfile.js
 .vscode/**
