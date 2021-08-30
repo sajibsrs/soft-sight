@@ -18,12 +18,18 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "soft sight",
+        "color theme",
+        "dark"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "soft sight",
                 "uiTheme": "vs-dark",
-                "path": "./themes/soft-sight.json"
+                "path": "./themes/soft-sight-color-theme.json"
             }
         ]
     }
