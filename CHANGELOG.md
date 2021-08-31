@@ -1,6 +1,8 @@
 # Change Log
 
 All notable changes to the "soft-sight" extension will be documented in this file.
+## Version 0.2.3
+- Small fix
 
 ## Version 0.2.2
 - Attribute name text style changed from italic to normal for JS, TS, JSX 

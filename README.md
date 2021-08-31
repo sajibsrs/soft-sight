@@ -5,7 +5,7 @@
 A color theme for __vscode__ that feels soft and pleasant to eyes.
 
 ## Preview
-![go-sample](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/preview/go-sample.png)
+![go-sample](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/preview/go.png)
 
 ## Languages
 While most languages should work out of the box. It's currently optimized for:
