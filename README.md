@@ -5,7 +5,11 @@
 A color theme for __vscode__ that feels soft and pleasant to eyes.
 
 ## Preview
+### Golang
 ![go-sample](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/preview/go.png)
+
+### JSX
+![go-sample](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/preview/jsx.png)
 
 ## Languages
 While most languages should work out of the box. It's currently optimized for:
@@ -27,6 +31,23 @@ While most languages should work out of the box. It's currently optimized for:
 ext install sajibsrs.soft-sight
 ```
 - Enter
+
+## Recommended settings
+### Here are vscode `settings` if you want your editor to look similar to `preview` screenshots.
+```json
+{
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 18,
+    "editor.lineHeight": 25,
+    "editor.fontLigatures": true,
+    "editor.cursorWidth": 3,
+    "editor.cursorBlinking": "phase",
+    "editor.renderWhitespace": "none",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 0
+}
+```
 
 ## What's new
 Click here to view the [changelog](https://github.com/sajibsrs/soft-sight/blob/master/CHANGELOG.md)
