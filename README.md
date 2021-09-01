@@ -5,11 +5,7 @@
 A color theme for __vscode__ that feels soft and pleasant to eyes.
 
 ## Preview
-### Golang
 ![go-sample](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/preview/go.png)
-
-### JSX
-![go-sample](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/preview/jsx.png)
 
 ## Languages
 While most languages should work out of the box. It's currently optimized for:
@@ -37,13 +33,15 @@ ext install sajibsrs.soft-sight
 
 ### 1. Titlebar settings
 ```json
-"workbench.colorCustomizations": {
-        "[soft sight]": {
-            "titleBar.activeBackground": "#1b1e2b",
-            "titleBar.activeForeground": "#53677a",
-        }
-    },
-    "window.titleBarStyle": "custom"
+{
+    "workbench.colorCustomizations": {
+            "[soft sight]": {
+                "titleBar.activeBackground": "#1b1e2b",
+                "titleBar.activeForeground": "#53677a",
+            }
+        },
+        "window.titleBarStyle": "custom"
+}
 ```
 
 ### 2. Editor settings.

@@ -2,6 +2,9 @@
 
 All notable changes to the "soft-sight" extension will be documented in this file.
 
+## Version 0.2.6
+- Small fixes
+
 ## Version 0.2.5
 - Title bar settings instructions to look same on different operating system.
 
