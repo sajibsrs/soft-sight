@@ -652,7 +652,7 @@
             "name": "Keyword Control",
             "scope": "keyword.control",
             "settings": {
-                "foreground": "#34c6d6"
+                "foreground": "#2AA3B0"
             }
         },
         {
@@ -983,6 +983,13 @@
             "scope": "punctuation.section.embedded.begin,punctuation.section.embedded.end",
             "settings": {
                 "foreground": "#2aa3b0"
+            }
+        },
+        {
+            "name": "Embedded",
+            "scope": "punctuation.section.embedded.begin.php,punctuation.section.embedded.end.php",
+            "settings": {
+                "foreground": "#974fdb"
             }
         },
         {
