@@ -33,7 +33,20 @@ ext install sajibsrs.soft-sight
 - Enter
 
 ## Recommended settings
-### Here are vscode `settings` if you want your editor to look similar to `preview` screenshots.
+> Here are vscode `settings` if you want your editor to look similar to `preview` screenshots.
+
+### 1. Titlebar settings
+```json
+"workbench.colorCustomizations": {
+        "[soft sight]": {
+            "titleBar.activeBackground": "#1b1e2b",
+            "titleBar.activeForeground": "#53677a",
+        }
+    },
+    "window.titleBarStyle": "custom"
+```
+
+### 2. Editor settings.
 ```json
 {
     "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",

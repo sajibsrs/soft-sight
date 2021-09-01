@@ -2,6 +2,9 @@
 
 All notable changes to the "soft-sight" extension will be documented in this file.
 
+## Version 0.2.5
+- Title bar settings instructions to look same on different operating system.
+
 ## Version 0.2.4
 - PHP opening and closign tag color change
 - Go keyword control keyword color change
