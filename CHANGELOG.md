@@ -1,6 +1,13 @@
 # Change Log
 
 All notable changes to the "soft-sight" extension will be documented in this file.
+
+## Version 0.2.4
+- PHP opening and closign tag color change
+- Go keyword control keyword color change
+- New preview screenshot added
+- vscode settings recommendation added
+
 ## Version 0.2.3
 - Small fix
 
