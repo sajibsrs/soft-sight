@@ -2038,7 +2038,7 @@
         "panelTitle.activeBorder": "#fff66d",
         "panelTitle.activeForeground": "#fff66d",
         "panelTitle.inactiveForeground": "#e7e7e799",
-        "badge.background": "#d14e4e",
+        "badge.background": "#1bb473",
         "badge.foreground": "#000000",
         "terminal.foreground": "#beb6b6",
         "terminal.selectionBackground": "#8eb3c440",
