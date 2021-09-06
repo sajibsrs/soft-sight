@@ -32,5 +32,9 @@
                 "path": "./themes/soft-sight-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "generator-code-javascript": "^0.1.2",
+        "yo": "^4.3.0"
     }
 }
