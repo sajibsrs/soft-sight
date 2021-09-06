@@ -2,6 +2,10 @@
 
 All notable changes to the "soft-sight" extension will be documented in this file.
 
+## Version 0.2.7
+- Remote connect status background change
+- Debut ribbon status backfround change
+
 ## Version 0.2.6
 - Small fixes
 
