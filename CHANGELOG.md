@@ -2,10 +2,11 @@
 
 All notable changes to the "soft-sight" extension will be documented in this file.
 
-## Version 0.2.8
-- Badge background change
+# Version 0.2.15
+- Small fix
 
-## Version 0.2.7
+## Version 0.2.14
+- Badge background change
 - Remote connect status background change
 - Debut ribbon status backfround change
 
