@@ -11,7 +11,7 @@ A color theme for __vscode__ that feels soft and pleasant to eyes.
 
 ## Languages
 While most languages should work out of the box. It's currently optimized for:
-- HTML, CSS
+- HTML, CSS, JSON
 - JavaScript, TypeScript, JSX
 - Go, PHP, Ruby
 - More language support are being added.
