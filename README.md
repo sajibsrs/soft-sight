@@ -10,7 +10,7 @@ A color theme for __vscode__ that feels soft and pleasant to eyes.
 ![go-sample](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/preview/go.png)
 
 ## Languages
-While most languages should work out of the box. It's currently optimized for:
+While most languages should work out of the box, it's currently optimized for:
 - HTML, CSS, JSON
 - JavaScript, TypeScript, JSX
 - Go, PHP, Ruby
