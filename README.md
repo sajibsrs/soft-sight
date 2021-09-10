@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/banner.png)
 
-# Soft sight color theme for vscode
+# Soft sight
 A color theme for __vscode__ that feels soft and pleasant to eyes.
 
 ![go-sample](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/preview/go.png)
@@ -16,7 +16,7 @@ A color theme for __vscode__ that feels soft and pleasant to eyes.
 While most languages should work out of the box, it's currently optimized for:
 - HTML, CSS, JSON
 - JavaScript, TypeScript, JSX
-- Go, PHP, Ruby
+- Go, PHP, Ruby, Python
 - More language support are being added.
 
 ## Installation
