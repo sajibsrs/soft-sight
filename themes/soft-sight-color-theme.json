@@ -1234,14 +1234,35 @@
             "name": "constant.language.symbol.ruby",
             "scope": "constant.language.symbol.ruby",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#FD6A6ACD"
+            }
+        },
+        {
+            "name": "punctuation",
+            "scope": "punctuation.separator.inheritance.ruby, variable.parameter.function.ruby",
+            "settings": {
+                "foreground": "#65C78F"
+            }
+        },
+        {
+            "name": "special method",
+            "scope": "keyword.other.special-method.ruby",
+            "settings": {
+                "foreground": "#65C78F",
+            }
+        },
+        {
+            "name": "punctuation",
+            "scope": "punctuation.separator.inheritance.ruby, punctuation.definition.variable.ruby",
+            "settings": {
+                "foreground": "#FD6A6ACD"
             }
         },
         {
             "name": "rgb-value",
             "scope": "rgb-value",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#FD6A6ACD"
             }
         },
         {
