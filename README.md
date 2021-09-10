@@ -1,14 +1,16 @@
 ![banner](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/banner.png)
 
+# Soft sight color theme for vscode
+A color theme for __vscode__ that feels soft and pleasant to eyes.
+
+![go-sample](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/preview/go.png)
+
+---
+
 [![version](https://img.shields.io/vscode-marketplace/v/sajibsrs.soft-sight.svg?style=flat&label=current)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) &nbsp;
 [![installs](https://img.shields.io/vscode-marketplace/d/sajibsrs.soft-sight.svg?style=flat&label=downloads)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) &nbsp;
 [![ratings](https://img.shields.io/vscode-marketplace/r/sajibsrs.soft-sight.svg?style=flat&label=rating)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight)
 
-# Soft sight color theme for vscode
-
-A color theme for __vscode__ that feels soft and pleasant to eyes.
-
-![go-sample](https://raw.githubusercontent.com/sajibsrs/soft-sight/master/preview/go.png)
 
 ## Languages
 While most languages should work out of the box, it's currently optimized for:
