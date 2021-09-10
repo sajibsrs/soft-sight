@@ -1,6 +1,10 @@
 # Change Log
 
 All notable changes to the "soft-sight" extension will be documented in this file.
+
+## Version 0.2.17
+- Banner added to readme
+
 ## Version 0.2.16
 - Ruby support added
 
