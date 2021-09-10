@@ -51,9 +51,9 @@
         },
         {
             "name": "variable.parameter.function.language.special.self.python",
-            "scope": "variable.parameter.function.language.special.self.python",
+            "scope": "variable.parameter.function.language.special.self.python, variable.language.special.self.python",
             "settings": {
-                "foreground": "#d7c16f"
+                "foreground": "#D7C16F"
             }
         },
         {
@@ -287,7 +287,7 @@
             "name": "CSS/SCSS/LESS Operators",
             "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -315,7 +315,7 @@
             "name": "css property-name",
             "scope": "support.type.vendored.property-name.css",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -405,7 +405,7 @@
             "name": "js dom",
             "scope": "support.type.object.dom",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -419,7 +419,7 @@
             "name": "keyword.operator",
             "scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -447,7 +447,7 @@
             "name": "C type posix-reserved",
             "scope": "support.type.posix-reserved.c,support.type.posix-reserved.cpp",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -461,14 +461,14 @@
             "name": "python parameter",
             "scope": "variable.parameter.function.language.python",
             "settings": {
-                "foreground": "#fd6a6acd"
+                "foreground": "#C3C6E2"
             }
         },
         {
             "name": "python type",
             "scope": "support.type.python",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -482,7 +482,14 @@
             "name": "pyCs",
             "scope": "variable.parameter.function.python",
             "settings": {
-                "foreground": "#fd6a6acd"
+                "foreground": "#34C6D6"
+            }
+        },
+        {
+            "name": "function python",
+            "scope": "support.function.magic.python, support.function.builtin.python",
+            "settings": {
+                "foreground": "#65C78F"
             }
         },
         {
@@ -496,14 +503,21 @@
             "name": "python function-call.generic",
             "scope": "meta.function-call.generic.python",
             "settings": {
-                "foreground": "#d7c16f"
+                "foreground": "#65C78F"
             }
         },
         {
             "name": "python placeholder reset to normal string",
             "scope": "constant.character.format.placeholder.other.python",
             "settings": {
-                "foreground": "#fd6a6acd"
+                "foreground": "#5C90DF"
+            }
+        },
+        {
+            "name": "string python",
+            "scope": "storage.type.string.python",
+            "settings": {
+                "foreground": "#5C90DF",
             }
         },
         {
@@ -599,7 +613,7 @@
                 "variable.function"
             ],
             "settings": {
-                "foreground": "#ebebeb"
+                "foreground": "#65c78f"
             }
         },
         {
@@ -750,7 +764,7 @@
             "name": "Constant other symbol",
             "scope": "constant.other.symbol",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -961,14 +975,14 @@
             "name": "Regular Expressions",
             "scope": "string.regexp",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
             "name": "Escape Characters",
             "scope": "constant.character.escape",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -1052,7 +1066,7 @@
             "name": "Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json",
             "scope": "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -1171,7 +1185,7 @@
             "name": "php logical/bitwise operator",
             "scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -1185,7 +1199,7 @@
             "name": "php comparison",
             "scope": "keyword.operator.comparison.php",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -1206,7 +1220,7 @@
             "name": "python function support",
             "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -1537,7 +1551,7 @@
                 "support.type.prelude.elm"
             ],
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -1574,7 +1588,7 @@
                 "entity.other.attribute-name.pseudo-class"
             ],
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -1601,7 +1615,7 @@
                 "constant.keyword.clojure"
             ],
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -1735,7 +1749,7 @@
                 "entity.name.class.xi"
             ],
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -1762,7 +1776,7 @@
                 "keyword.control.xi"
             ],
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
@@ -1895,7 +1909,7 @@
                 "constant.language.symbol.elixir"
             ],
             "settings": {
-                "foreground": "#f24949cd"
+                "foreground": "#fd6a6acd"
             }
         },
         {
