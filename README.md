@@ -1,8 +1,8 @@
 # Soft sight color theme for visual studio code
 
-[![version](https://img.shields.io/vscode-marketplace/v/sajibsrs.soft-sight.svg?style=flat-square&label=version)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) &nbsp;
-[![installs](https://img.shields.io/vscode-marketplace/d/sajibsrs.soft-sight.svg?style=flat-square&label=installs)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) &nbsp;
-[![ratings](https://img.shields.io/vscode-marketplace/r/sajibsrs.soft-sight.svg?style=flat-square&label=rating)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight)
+[![version](https://img.shields.io/vscode-marketplace/v/sajibsrs.soft-sight.svg?style=flat&label=current)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) &nbsp;
+[![installs](https://img.shields.io/vscode-marketplace/d/sajibsrs.soft-sight.svg?style=flat&label=downloads)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) &nbsp;
+[![ratings](https://img.shields.io/vscode-marketplace/r/sajibsrs.soft-sight.svg?style=flat&label=rating)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight)
 
 A color theme for __vscode__ that feels soft and pleasant to eyes.
 
@@ -13,7 +13,7 @@ A color theme for __vscode__ that feels soft and pleasant to eyes.
 While most languages should work out of the box. It's currently optimized for:
 - HTML, CSS
 - JavaScript, TypeScript, JSX
-- Go, PHP
+- Go, PHP, Ruby
 - More language support are being added.
 
 ## Installation
@@ -72,4 +72,4 @@ Click here to view the [changelog](https://github.com/sajibsrs/soft-sight/blob/m
 * Licensed under [MIT License](https://github.com/sajibsrs/soft-sight/blob/master/LICENSE).
 
 ---
-If you like it, then please rate it. Thank you ❤️
+Made with ❤️ by Sajidur Rahman. If you like it, then please rate it.
