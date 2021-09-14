@@ -2,6 +2,9 @@
 
 All notable changes to the "soft-sight" extension will be documented in this file.
 
+## Version 0.3.1
+- Added more colors to python syntax
+
 ## Version 0.3.0
 - Python full support
 - Updated syntax coloring for python
