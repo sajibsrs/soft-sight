@@ -40,12 +40,12 @@ ext install sajibsrs.soft-sight
 ```json
 {
     "workbench.colorCustomizations": {
-            "[soft sight]": {
-                "titleBar.activeBackground": "#1b1e2b",
-                "titleBar.activeForeground": "#53677a",
-            }
-        },
-        "window.titleBarStyle": "custom"
+        "[soft sight]": {
+            "titleBar.activeBackground": "#1b1e2b",
+            "titleBar.activeForeground": "#53677a",
+        }
+    },
+    "window.titleBarStyle": "custom"
 }
 ```
 
@@ -75,4 +75,4 @@ Click here to view the [changelog](https://github.com/sajibsrs/soft-sight/blob/m
 * Licensed under [MIT License](https://github.com/sajibsrs/soft-sight/blob/master/LICENSE).
 
 ---
-Made with ❤️ by Sajidur Rahman. If you like it, then please rate it.
+Made with ❤️ by Sajidur Rahman.
