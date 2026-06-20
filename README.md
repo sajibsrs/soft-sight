@@ -8,13 +8,7 @@ A color theme for __vscode__ that feels soft and pleasant to eyes.
 ---
 
 <!-- Version Badge -->
-[![version](https://vsmarketplacebadges.dev/version/sajibsrs.soft-sight.svg?style=flat-square&label=current)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight)
-
-<!-- Downloads Badge -->
-[![installs](https://vsmarketplacebadges.dev/downloads/sajibsrs.soft-sight.svg?style=flat-square&label=downloads)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight)
-
-<!-- Ratings Badge -->
-[![ratings](https://vsmarketplacebadges.dev/rating/sajibsrs.soft-sight.svg?style=flat-square&label=rating)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight)
+[![version](https://vsmarketplacebadges.dev/version/sajibsrs.soft-sight.svg?style=flat-square&label=current)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) [![installs](https://vsmarketplacebadges.dev/downloads/sajibsrs.soft-sight.svg?style=flat-square&label=downloads)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight) [![ratings](https://vsmarketplacebadges.dev/rating/sajibsrs.soft-sight.svg?style=flat-square&label=rating)](https://marketplace.visualstudio.com/items/sajibsrs.soft-sight)
 
 
 ## Languages
